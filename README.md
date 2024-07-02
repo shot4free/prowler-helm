@@ -1,6 +1,6 @@
 # prowler
 
-![Version: 0.1.0](https://img.shields.io/badge/Version-0.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.16.0](https://img.shields.io/badge/AppVersion-1.16.0-informational?style=flat-square)
+![Version: 0.1.1](https://img.shields.io/badge/Version-0.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.16.0](https://img.shields.io/badge/AppVersion-1.16.0-informational?style=flat-square)
 
 Prowler Security Tool Helm chart for Kubernetes
 
@@ -16,7 +16,6 @@ Prowler Security Tool Helm chart for Kubernetes
 | configMapData.etcSystemd | string | `"/etc/systemd"` |  |
 | configMapData.libSystemd | string | `"/lib/systemd"` |  |
 | configMapData.optCniBin | string | `"/opt/cni/bin"` |  |
-| configMapData.srvKubernetes | string | `"/srv/kubernetes"` |  |
 | configMapData.usrBin | string | `"/usr/bin"` |  |
 | configMapData.varLibCni | string | `"/var/lib/cni"` |  |
 | configMapData.varLibEtcd | string | `"/var/lib/etcd"` |  |

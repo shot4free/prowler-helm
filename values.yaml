@@ -24,7 +24,6 @@ configMapData:
   varLibKubeControllerManager: "/var/lib/kube-controller-manager"
   etcSystemd: "/etc/systemd"
   libSystemd: "/lib/systemd"
-  srvKubernetes: "/srv/kubernetes"
   etcKubernetes: "/etc/kubernetes"
   usrBin: "/usr/bin"
   etcCniNetd: "/etc/cni/net.d"
